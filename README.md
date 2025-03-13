@@ -28,9 +28,13 @@ A **Flutter-based music player** with **play, pause, next, previous, and stop co
 ---
 
 ## 📸 Screenshots
-
+### **🔹 Pastel-Themed UI**
 ![image](https://github.com/user-attachments/assets/0056e8a0-8a0c-4a09-b034-cba00e1fb170)
+
+### **🔹 Play, Pause, Next, Previous Controls**
 ![image](https://github.com/user-attachments/assets/6419387e-bd5f-4acf-a894-d37c3069506d)
+
+### **🔹 Highlighted Playing Track**
 ![image](https://github.com/user-attachments/assets/92b3a9b8-e937-47e5-8a29-e85e9ebaf683)
 
 
